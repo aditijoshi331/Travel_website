@@ -1,0 +1,94 @@
+.logo{
+	box-sizing:border-box;
+	height:100px;
+}
+
+
+.name{
+	background-color:green;
+	height:100px;
+	text-align:center;
+	box-sizing:border-box;
+	font-family:"algerian";
+	color:white;
+	padding-top:10px;
+	
+}
+
+
+.menu{
+	background-color:#519B27;
+	height:50px;
+	text-align:center;
+	padding-top:15px;
+	box-sizing:border-box;
+	font-family:"algerian";
+	margin-top:5px;
+	
+}
+
+a{
+	color:white;
+	text-decoration:none;
+	display:block;
+}
+
+.banner{
+	background-image:url("pngtree-color-creative-travel-tourism-image_9652.jpg");
+	height:250px;
+	text-align:center;
+	margin-top:5px;
+	box-sizing:border-box;
+	font-family:"algerian";
+	padding-top:100px;
+	color:green;
+}
+
+.section{
+	text-align:justify;
+	padding-top:5px;
+	padding-left:5px;
+	padding-right:5px;
+	background-color:#A5DE84 ;
+	box-sizing:border-box;
+	font-family:"arial black";
+	margin-top:5px;
+}
+
+.box{
+	
+	text-align:center;
+	padding-top:5px;
+	float:left;
+	color:green;
+	box-sizing:border-box;
+}
+
+a:hover{
+	color:red;
+}
+	
+
+.footer{
+	background-color:#519B27 ; 
+	height:150px;
+	margin-top:5px;
+	color:black;
+}
+
+address{
+	text-align:center;
+	
+}
+#copyright{
+	text-align:center;
+	padding-top:30px;
+	box-sizing:border-box;
+}
+
+
+#follow{
+	padding-top:15px;
+	box-sizing:border-box;
+	padding-left:20px;
+}
